@@ -43,7 +43,4 @@ cd Telco-Churn-Prediction-ML
 
 # Run script
 
-
-
-
-python scripts/churn_pipeline.py
+Telco-Churn-Prediction-ML.ipynb
