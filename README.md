@@ -6,6 +6,7 @@ This project uses a clean "Logistic Regression pipeline" with one-hot encoding, 
 
 # Dataset:
 Use the Telco Churn CSV  
+url="https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv"
 
 # Method:
 1. Cleaning:
